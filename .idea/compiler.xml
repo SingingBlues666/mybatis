@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-01-HelloWorld" />
+        <module name="mybatis-02-config" />
+        <module name="mybatis-03-mapper" />
+        <module name="mybatis-04-dynamicSQL" />
+        <module name="mybatis-05-cache" />
+        <module name="mybatis-06-ssm" />
+        <module name="mybatis-07-mbg" />
+        <module name="mybatis-09-source" />
+        <module name="mybatis-10-plugin" />
+        <module name="mybatis-11-other" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybatis-01-HelloWorld" target="1.5" />
+      <module name="mybatis-02-config" target="1.5" />
+      <module name="mybatis-03-mapper" target="1.5" />
+      <module name="mybatis-04-dynamicSQL" target="1.5" />
+      <module name="mybatis-05-cache" target="1.5" />
+      <module name="mybatis-06-ssm" target="1.5" />
+      <module name="mybatis-07-mbg" target="1.5" />
+      <module name="mybatis-09-source" target="1.5" />
+      <module name="mybatis-10-plugin" target="1.5" />
+      <module name="mybatis-11-other" target="1.5" />
+      <module name="mybatis11other" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
