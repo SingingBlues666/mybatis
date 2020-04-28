@@ -114,7 +114,7 @@
                         不重要，简单的Dao接口为了开发快速可以使用注解；
         -->
         <!-- <mapper resource="mybatis/mapper/EmployeeMapper.xml"/> -->
-        <!-- <mapper class="com.zlx.mybatis.dao.EmployeeMapperAnnotation"/> -->
+        <!-- <mapper class="com.atguigu.mybatis.dao.EmployeeMapperAnnotation"/> -->
 
         <!-- 批量注册： -->
         <package name="com.zlx.mybatis.dao"/>
